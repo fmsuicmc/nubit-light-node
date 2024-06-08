@@ -3,7 +3,8 @@ Run a Light Node with One Command
 
 
 
-``` apt install screen 
+```
+apt install screen 
 screen -S nubit
 
 curl -sL1 https://nubit.sh | bash
@@ -14,7 +15,8 @@ control A+D
 
 memonic save
 
-``` cd nubit-node
+```
+cd nubit-node
 nano mnemonic.txt
 
 ```
