@@ -3,7 +3,9 @@ Run a Light Node with One Command
 
 config : 2core - 4 core
 ram - 4-8
-ssd - 100-300
+ssd - 100-300 
+
+https://docs.nubit.org/nubit-da/run-a-node-advanced
 
 ```
 apt install screen 
