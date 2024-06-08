@@ -1,5 +1,4 @@
-https://github-production-user-asset-6210df.s3.amazonaws.com/106862644/337910625-adb6031e-f59b-4f47-b4f9-9ddb118162d2.jpg
-
+![photo_2024-06-08_19-37-49](https://github.com/zircuit-labs/ceremony/assets/106862644/1be78675-3d34-4207-91b9-0901feacbbc7)
 Run a Light Node with One Command
 
 
